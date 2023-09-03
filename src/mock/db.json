@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "hello",
+      "body": "copilot"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "dear",
+      "body": "gpt"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "is",
+      "body": "ez"
+    },
+    {
+      "title": "hello",
+      "body": "tt",
+      "id": 4
+    },
+    {
+      "id": 5
+    }
+  ]
+}
